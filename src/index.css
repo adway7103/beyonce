@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#root{
+  padding:20px 30px;
+}
+@font-face {
+  font-family: 'CoveredByYourGrace'; /* Name you'll use to reference the font */
+  src: url('../fonts/CoveredByYourGrace.ttf') format('truetype'); /* Adjust path if needed */
+}
