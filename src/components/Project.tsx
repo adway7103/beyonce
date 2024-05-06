@@ -69,7 +69,7 @@ function Project() {
           <button
             type="submit"
             className={`text-white font-bold py-4 px-4 rounded-full ${
-              !submit ? "bg-[#C9C9C9]" : "bg-[#1C1C1C]"
+              !submit ? "bg-[#C9C9C9]" : "bg-[#1C1C1C] button"
             }`}
             disabled={!submit}
           >

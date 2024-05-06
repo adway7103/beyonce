@@ -8,3 +8,14 @@
   font-family: 'CoveredByYourGrace'; /* Name you'll use to reference the font */
   src: url('../fonts/CoveredByYourGrace.ttf') format('truetype'); /* Adjust path if needed */
 }
+.button{
+  z-index: 2;
+
+  color: rgba(#fff, 0.8);
+  transition:background-color 0.5s, color 0.5s;
+}
+.button:hover{
+    background-color: #fff;
+    color: #444;
+
+}

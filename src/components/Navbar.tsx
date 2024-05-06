@@ -15,7 +15,7 @@ function Navbar() {
         >
           Get Projects
         </Link>
-        <button className="p-3 px-6 rounded-full border-2 bg-black text-white">
+        <button className="p-3 px-6 rounded-full border-2 bg-black button text-white">
           Onboard talent
         </button>
       </div>

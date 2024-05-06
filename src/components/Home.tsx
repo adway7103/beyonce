@@ -20,7 +20,7 @@ function Home() {
           </div>
           <div className="items-left flex flex-col pt-[10vh] pb-[80px] gap-10">
             <TextSlider />
-            <button className="p-5 px-8 ml-[20px] rounded-full w-fit border-2 bg-black text-white">
+            <button className="p-5 px-8 ml-[20px] rounded-full w-fit border-2 button bg-black text-white">
                           Explore More →
             </button>
           </div>
